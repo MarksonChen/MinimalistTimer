@@ -41,9 +41,10 @@ public class StopWatch {
     }
 
     public void reset(){
-        // Unpause and restart the timer
+        // restart the timer
         start = Instant.now();
-        pause = null;
+        // Stay paused/unpaused
+        if (isPaused()) pause();
         totalPauseDuration = Duration.ZERO;
     }
 

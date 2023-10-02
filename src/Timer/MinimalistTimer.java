@@ -98,6 +98,11 @@ public class MinimalistTimer extends JFrame {
                     logger.logEvent(EventLogger.EventType.RESET_TIMER,
                             stopWatch.elapsedTime());
                     stopWatch.reset();
+                    secondTimer.getActionListeners()[0]
+                            .actionPerformed(null);
+                    if (!stopWatch.isPaused()){
+                        secondTimer.restart();
+                    }
                 }
             }
 
