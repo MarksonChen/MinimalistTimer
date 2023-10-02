@@ -22,18 +22,18 @@ This is a minimalist timer application that floats on your screen. Start/pause/r
 
 ## Why Minimalist Timer?
 
-If you have ever tried to record the time spent on every work or study task as part of your daily workflow, you will soon find it tedious switching from/to mobile/web Timer apps every single time. Only if there is an app that can float on the screen, half-transparent and unintrusive, with all actions completable with just a single click -- how fantastic will that be!
+If you have ever tried to record the time spent on every work or study task as part of your daily workflow, you will soon find it tedious switching from/to mobile/web Timer apps every single time. Only if there is an app that can float on the screen, half-transparent and unintrusive, with all actions completable with just a single click — how fantastic will that be!
 
-Thus, I wrote this simple application three years ago, and it has become an integral part of my workflow for the past three years. I would record the time I spent on each work/study task and add them up at the end of the day. This provides me with quantitative metrics for measuring "productiveness", making myself feel accomplished -- or the contrary. Either way, it encourages me to maintain any positive habits and get rid of any unproductive ones. 
+Thus, I wrote this simple application three years ago (2020), and it has become an integral part of my workflow for the past three years. I would record the time I spent on each work/study task and add them up at the end of the day. This provides me with quantitative metrics for measuring "productiveness", making myself feel accomplished — or the contrary. Either way, it encourages me to maintain any positive habits and get rid of any unproductive ones. 
 
 A timer app that is minimalistically simple would eliminate most "friction" in tracking your task time usage. If you are considering adopting a habit like this, I highly recommend you give this app a try! 
 
 
 ## Extra: MacOS Features
 
-<img width="408" alt="image" src="https://github.com/MarksonChen/MinimalistTimer/assets/46666959/938c8343-f0d5-412c-b6c0-bf0349847ab6">
-
 On the menu bar:
+
+<img width="408" alt="image" src="https://github.com/MarksonChen/MinimalistTimer/assets/46666959/938c8343-f0d5-412c-b6c0-bf0349847ab6">
 
 Click the **_Log_** button to see a history of starts/pauses/resets
 
