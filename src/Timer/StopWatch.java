@@ -4,7 +4,7 @@ package Timer;
 import java.time.Duration;
 import java.time.Instant;
 
-public class Timer {
+public class StopWatch {
 
     private Instant start;
     private Instant pause;
@@ -71,6 +71,6 @@ public class Timer {
 
     @Override
     public String toString() {
-        return Timer.formatDuration(elapsedTime());
+        return StopWatch.formatDuration(elapsedTime());
     }
 }
