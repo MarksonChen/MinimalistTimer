@@ -2,7 +2,7 @@
 
 This is a minimalist stopwatch that floats on your screen, and can be started/paused/resetted just with a click!
 
-Download [MinimalistTimer.jar](https://github.com/MarksonChen/MinimalistTimer/blob/master/MinimalistTimer.jar) and try it out!
+Download [MinimalistTimer.jar](https://github.com/MarksonChen/MinimalistTimer/raw/master/MinimalistTimer.jar) and try it out!
 
 **_Left Click_** - Start / Pause the stopwatch
 
