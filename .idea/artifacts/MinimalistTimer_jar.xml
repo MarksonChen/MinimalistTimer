@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MinimalistTimer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MinimalistTimer_jar</output-path>
+    <root id="archive" name="MinimalistTimer.jar">
+      <element id="module-output" name="MinimalistTimer" />
+    </root>
+  </artifact>
+</component>
