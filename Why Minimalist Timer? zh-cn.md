@@ -6,4 +6,4 @@
 
 这样一个简易到minimal的计时程序，能将每次任务计时细小阻力近乎完全消除。如果你想建立一个类似的习惯，那么我极力推荐你试一试这个程序。
 
-[Jump Back](https://github.com/MarksonChen/MinimalistTimer/tree/master#why-minimalist-timer)
+[Jump Back](https://github.com/MarksonChen/MinimalistTimer#why-minimalist-timer)
