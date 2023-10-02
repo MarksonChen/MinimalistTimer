@@ -1,8 +1,8 @@
 # MinimalistTimer
 
-This is a minimalist stopwatch that floats on your screen, and can be started/paused/resetted just with a click!
+This is a minimalist timer application that floats on your screen. Start/pause/reset the timer just with a click!
 
-Download [MinimalistTimer.jar](https://github.com/MarksonChen/MinimalistTimer/raw/master/MinimalistTimer.jar) and try it out!
+## Download [MinimalistTimer.jar](https://github.com/MarksonChen/MinimalistTimer/raw/master/MinimalistTimer.jar) and try it out!
 
 **_Left Click_** - Start / Pause the stopwatch
 
@@ -20,7 +20,7 @@ Download [MinimalistTimer.jar](https://github.com/MarksonChen/MinimalistTimer/ra
 
 <img src="https://github.com/MarksonChen/MinimalistTimer/assets/46666959/a0887507-71ac-48f8-a63d-7c96a8f0e72f" width="30%" height="30%"/>
 
-### MacOS Features:
+## MacOS Features:
 <img width="408" alt="image" src="https://github.com/MarksonChen/MinimalistTimer/assets/46666959/938c8343-f0d5-412c-b6c0-bf0349847ab6">
 
 On the menu bar:
