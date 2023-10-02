@@ -22,7 +22,7 @@ This is a minimalist timer application that floats on your screen. Start/pause/r
 
 ## Why Minimalist Timer?
 
-_Read in 简体中文/繁体中文_
+_Read in [简体中文](https://github.com/MarksonChen/MinimalistTimer/blob/master/Why%20Minimalist%20Timer%3F%20zh-cn.md)_
 
 If you have ever tried to record the time spent on every work or study task as part of your daily workflow, you will soon find it tedious switching from/to mobile/web Timer apps every single time. Only if there is an app that can float on the screen, half-transparent and unintrusive, with all actions completable with just a single click — how fantastic will that be!
 
