@@ -22,6 +22,8 @@ This is a minimalist timer application that floats on your screen. Start/pause/r
 
 ## Why Minimalist Timer?
 
+_Read in 简体中文/繁体中文_
+
 If you have ever tried to record the time spent on every work or study task as part of your daily workflow, you will soon find it tedious switching from/to mobile/web Timer apps every single time. Only if there is an app that can float on the screen, half-transparent and unintrusive, with all actions completable with just a single click — how fantastic will that be!
 
 Thus, I wrote this simple application three years ago (2020), and it has become an integral part of my workflow for the past three years. I would record the time I spent on each work/study task and add them up at the end of the day. This provides me with quantitative metrics for measuring "productiveness", making myself feel accomplished — or the contrary. Either way, it encourages me to maintain any positive habits and get rid of any unproductive ones. 
