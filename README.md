@@ -1,3 +1,5 @@
+# Update: See the newest version of the app at [MarksonChen/flux](https://github.com/MarksonChen/flux)
+
 # MinimalistTimer
 
 This is a minimalist timer application that floats on your screen. Start/pause/reset the timer just with a click!
